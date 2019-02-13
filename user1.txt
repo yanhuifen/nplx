@@ -1,3 +1,7 @@
 header
+<<<<<<< HEAD
 section1
 section2
+=======
+footer
+>>>>>>> da77c88b293ae01e0c23953ba2e3533b56af34ac
